@@ -49,7 +49,7 @@ table {
 /*Estilo especifico:*/
 
 body {
-	background-image: url(codigo.jpg);
+	background-image: url(/img/codigo.jpg);
 	font-family: 'Urbanist',sans-serif;
 	--azul: rgb(0, 0, 0);
 	--claro:rgb(229, 229, 227);
